@@ -1,8 +1,8 @@
 // ADD YOUR ANIME HERE
 const animeList = [
     {
-        title: 'DOG & CHAINSAW',
-        description: 'Your anime description here',
+        title: 'Chainsaw Man',
+        description: 'cool',
         image: 'images/dogchainsaw.png',
         url: 'https://flickenhenrey.github.io/coolanime/',
         episodes: 12
