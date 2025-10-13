@@ -13,7 +13,7 @@ const animeList = [
         description: 'hi',
         image: 'images/boondock.png',
         url: 'https://flickenhenrey.github.io/bondock/',
-        episodes: 5
+        episodes: 55
      },
 ];
 
