@@ -11,7 +11,7 @@ const animeList = [
      {
         title: 'The Boondocks',
         description: 'hi',
-        image: 'images/anotheranime.png',
+        image: 'images/boondock.png',
         url: 'https://flickenhenrey.github.io/bondock/',
         episodes: 5
      },
