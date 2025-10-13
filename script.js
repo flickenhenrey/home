@@ -7,14 +7,14 @@ const animeList = [
         url: 'https://flickenhenrey.github.io/coolanime/',
         episodes: 12
     },
-    // Add more anime:
-    // {
-    //     title: 'Another Anime',
-    //     description: 'Description here',
-    //     image: 'images/anotheranime.png',
-    //     url: 'https://flickenhenrey.github.io/anotheranime/',
-    //     episodes: 24
-    // },
+    
+     {
+        title: 'The Boondocks',
+        description: 'hi',
+        image: 'images/anotheranime.png',
+        url: 'https://flickenhenrey.github.io/bondock/',
+        episodes: 5
+     },
 ];
 
 const animeListEl = document.getElementById('anime-list');
