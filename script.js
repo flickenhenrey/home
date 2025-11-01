@@ -15,6 +15,14 @@ const animeList = [
         url: 'https://flickenhenrey.github.io/bondock/',
         episodes: 55
      },
+
+         {
+        title: 'Chainsaw Man – The Movie: Reze Arc',
+        description: 'reze woman',
+        image: 'csmovie/.png',
+        url: 'https://flickenhenrey.github.io/chainsawguymovie/',
+        episodes: 1
+     },
 ];
 
 const animeListEl = document.getElementById('anime-list');
