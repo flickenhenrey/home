@@ -7,23 +7,22 @@ const animeList = [
         url: 'https://flickenhenrey.github.io/coolanime/',
         episodes: 12
     },
-    
-     {
+    {
         title: 'The Boondocks',
         description: 'hi',
         image: 'images/boondock.png',
         url: 'https://flickenhenrey.github.io/bondock/',
         episodes: 55
-     },
-
-         {
+    },
+    {
         title: 'Chainsaw Man – The Movie: Reze Arc',
         description: 'reze woman',
-        image: 'csmovie/.png',
+        image: 'images/csmovie.png', // fixed image path
         url: 'https://flickenhenrey.github.io/chainsawguymovie/',
         episodes: 1
-     },
+    }
 ];
+
 
 const animeListEl = document.getElementById('anime-list');
 
